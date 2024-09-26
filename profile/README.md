@@ -1,2 +1,2 @@
-# Openus .NET KR
+# Openus .NET
 > Generate and R&D .NET open source
