@@ -1,2 +1,2 @@
 # Openus .NET
-> Generate and R&D .NET open source
+> Generate and Develop .NET Open Libraries and Frameworks 
